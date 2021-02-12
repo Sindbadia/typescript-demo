@@ -4,7 +4,6 @@
 	"description": "Playground for learning TypeScript",
 	"main": "js-only.js",
 	"scripts": {
-		"ts": "tsc app.ts",
 		"start": "lite-server"
 	},
 	"repository": {
